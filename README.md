@@ -61,14 +61,7 @@ afin de renforcer mes compétences techniques et participer à des projets profe
 
 ---
 
-## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jules-madec&show_icons=true&theme=github_dark&hide_border=true&border_radius=14" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jules-madec&layout=compact&theme=github_dark&hide_border=true&border_radius=14" height="165"/>
-</p>
-
----
 
 ## 📫 Me contacter
 
